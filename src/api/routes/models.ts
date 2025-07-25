@@ -32,6 +32,11 @@ export default {
                         "id": "moonshot-v1-vision",
                         "object": "model",
                         "owned_by": "kimi-free-api"
+                    },
+                    {
+                        "id": "kimi-k2-0711-preview",
+                        "object": "model",
+                        "owned_by": "kimi-free-api"
                     }
                 ]
             };
